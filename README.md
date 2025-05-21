@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RachelRiP
-- 👀 I’m interested in ...Data Analitics
+- 👋 Hi, I’m Raquel Rodríguez
+- 👀 I’m interested in ...Data Analitics y la Ciencia de Datos
 - 🌱 I’m currently learning ...Master Data Scientist
 - 💞️ I’m looking to collaborate on ...data analysis and data science projects
 - 📫 How to reach me ...leuqarrip@gmail.com
